@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=168bf2&height=120&section=header"/>
+
 <div align="center">
   <img src="resources/logo-extended.png" height="200em">
 </div>
@@ -37,3 +39,5 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=168bf2&height=120&section=footer"/>
