@@ -28,11 +28,6 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://discordapp.com/users/822921407016861717" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
-<div align="center">
   <a href="https://www.linkedin.com/in/mateus-silva-7b9796211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
