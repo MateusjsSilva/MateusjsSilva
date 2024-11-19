@@ -1,9 +1,7 @@
 <div width=100%>
   <img src="resources/Banner.png">
 </div>
-<div width=100%>
 <p></p>
-</div>
 
 <div align="center">
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/></code>
@@ -24,6 +22,12 @@
     <li>👨‍🔧 Electronics Technician</li>
     <li>📘 Learning about microservices and building apps using .NET MAUI</li>
   </ul>
+</div>
+<div>
+  <h2>🚀 Badges</h2>
+  <div align="center">
+    <img width="150" src="resources/aws-academy.png">
+  </div>
 </div>
 <div align="center">
   <h3>Get in touch with me:</h3>
