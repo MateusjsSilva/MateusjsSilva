@@ -1,5 +1,5 @@
 <div width=100%>
-  <img src="resources/banner.png">
+  <img src="resources/Banner.png">
 </div>
 <p></p>
 
@@ -19,6 +19,7 @@
 
 <div>
   <h2>👨‍💻 Bio</h2>
+  <img align="right" width="150px" style="margin-top:-20px" src="resources/aws-academy.png">
   <ul style="list-style-type:none;">
     <li>👨‍💻 FullStack Developer</li>
     <li>📚 Computer Science student</li>
@@ -26,14 +27,7 @@
     <li>📘 Learning about microservices and building apps using .NET MAUI</li>
   </ul>
 </div>
-<div>
-  <h2>🚀 Badges</h2>
-  <div align="center">
-    <img width="150" src="resources/aws-academy.png">
-  </div>
-</div>
 <div align="center">
-  <h3>Get in touch with me:</h3>
    <a href="mailto:trabalhomateusjs521@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
