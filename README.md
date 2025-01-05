@@ -27,8 +27,10 @@
     <li>📘 Learning about microservices and building apps using .NET MAUI</li>
   </ul>
 </div>
-<div align="center">
-   <a href="mailto:trabalhomateusjs521@gmail.com" target="_blank">
+<div align="left">
+  </br>
+  </br>
+  <a href="mailto:trabalhomateusjs521@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mateus-silva-7b9796211/" target="_blank">
