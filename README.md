@@ -43,11 +43,11 @@
 <div>
   <h2>🌟 Soft Skills</h2>
   <ul style="list-style-type:none;">
-    <li>Proactivity ⚡</li>
-    <li>Excellent Communication 🗣️</li>
-    <li>Results-Oriented 🎯</li>
-    <li>Self-Taught 📚</li>
-    <li>Teaching Ability 👨‍🏫​</li>
+    <li>⚡ Proactivity </li>
+    <li>🗣️ Excellent Communication </li>
+    <li>🎯 Results-Oriented </li>
+    <li>📚 Self-Taught </li>
+    <li>👨‍🏫 Teaching Ability ​</li>
   </ul>
 </div>
 <div>
