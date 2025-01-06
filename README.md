@@ -21,7 +21,7 @@
   <h2>👨‍💻 Bio</h2>
   <img align="right" width="150px" style="margin-top:-20px" src="resources/aws-academy.png">
   <ul style="list-style-type:none;">
-    <li>👨‍💻 FullStack Developer</li>
+    <li>👨‍💻 Full-Stack Developer</li>
     <li>📚 Computer Science student</li>
     <li>👨‍🔧 Electronics Technician</li>
     <li>📘 Learning about microservices and building apps using .NET MAUI</li>
