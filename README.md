@@ -51,8 +51,8 @@
   </ul>
 </div>
 <div>
+  <h2>⚙️ GitHub Analytics</h2>
   <div align="center">
-    <h3>⚙️ GitHub Analytics</h3>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusjsSilva&layout=donut&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
   </div>
