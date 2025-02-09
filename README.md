@@ -7,6 +7,7 @@
 <div>
   <!-- Contact and Infos -->
   <div align="left">
+    <img src="https://komarev.com/ghpvc/?username=mateusjssilva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mateusjssilva" />
     <a href="mailto:trabalhomateusjs521@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
@@ -19,7 +20,6 @@
     <a href="https://mateussilva.dev.br" target="_blank">
       <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=mateusjssilva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mateusjssilva" />
   </div>
   <h2>👨‍💻 Biography</h2>
   <img align="right" width="150px" style="margin-top:-20px" src="resources/aws-academy.png">
