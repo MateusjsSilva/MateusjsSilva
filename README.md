@@ -28,7 +28,7 @@
     <li>📚 Computer Science student</li>
     <li>👨‍🔧 Electronics Technician</li>
     <li>📘 Learning about microservices and building apps using .NET MAUI</li>
-    <li>🔗 My personal website: <a href="https://www.mateussilva.dev.br" target="_blank" style="text-decoration: none; color: inherit;">mateussilva.dev.br</a></li>
+    <li>🔗 My personal website: <a href="https://www.mateussilva.dev.br" target="_blank" style="text-decoration: none; color: inherit;">www.mateussilva.dev.br</a></li>
   </ul>
 </div>
 
