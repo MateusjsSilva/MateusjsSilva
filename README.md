@@ -4,7 +4,7 @@
 <p></p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=19b3b2&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+.+.+.;Data+analyst+.+.+.;Get+to+know+my+technologies:" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=fefbff&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+.+.+.;Data+analyst+.+.+.;Get+to+know+my+technologies:" alt="Typing SVG" />
 
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/></code>
@@ -38,6 +38,9 @@
   </a>
   <a href="https://www.instagram.com/mateus_silva.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://mateussilva.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 <div>
