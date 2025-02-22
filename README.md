@@ -22,7 +22,6 @@
     </a>
   </div>
   <h2>👨‍💻 Biography</h2>
-  <img align="right" width="150px" style="margin-top:-20px" src="resources/aws-academy.png">
   <ul style="list-style-type:none;">
     <li>👨‍💻 Full-Stack Developer</li>
     <li>📈 Data Scientist</li>
@@ -45,6 +44,8 @@
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" alt="SQL Server"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL"/></code>
+  <br>
+  <img width="120px" style="margin-top:-20px" src="resources/aws-academy.png">
 </div>
 
 <!-- GitHub Analytics -->
