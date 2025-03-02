@@ -23,8 +23,7 @@
   </div>
   <h2>👨‍💻 Biography</h2>
   <ul style="list-style-type:none;">
-    <li>👨‍💻 Full-Stack Developer</li>
-    <li>📈 Data Scientist</li>
+    <li>👨‍💻 Full-Stack Developer / Data Scientist</li>
     <li>📚 Computer Science student</li>
     <li>👨‍🔧 Electronics Technician</li>
     <li>📘 Learning about microservices and building apps using .NET MAUI</li>
@@ -33,7 +32,7 @@
 </div>
 
 <!-- Tech Stack -->
-<div align="center" >
+<div>
   <br>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/></code>
@@ -44,18 +43,23 @@
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" alt="SQL Server"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL"/></code>
-  <br>
-  <img width="120px" style="margin-top:-20px" src="resources/aws-academy.png">
 </div>
 
-<!-- GitHub Analytics -->
 <div>
-  <h2>📊 GitHub Analytics</h2>
+  <h2>🚀 Badges</h2>
+  <div align="center">
+    <img width="140px" src="resources/aws-academy.png">
+  </div>
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=mateusjssilva&rank=SECRET,SSS,S,AAA,AA,A&row=1&column=5&margin-w=15&margin-h=15" alt="mateusjssilva"/>
     </a>
   </div>
+</div>
+
+<!-- GitHub Analytics -->
+<div>
+  <h2>📊 GitHub Analytics</h2>  
   <div align="center">
     <br>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true" />
