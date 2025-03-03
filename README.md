@@ -48,6 +48,17 @@
 <div>
   <h2>🚀 Badges</h2>
   <div align="center">
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14179136" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/KR41r5TH13jpDKg2Bpv1%2FO7juhEQ9cYZ756fYxlQd9Y%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14156681" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/ORoZ295Vb%2BLs6VvawOctoRUBLHnLS3sKloFU6AIRZhE%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14178473" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/TVR1AMh8sKiqC8HECnhUcS0H7Gzzc8i1FsUw7hnuxIo%3D">
+    </a>
+  </div>
+  <div align="center">
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14176360" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/MyQRuPRm3HEqPq%2FxN8oa4NxXXDEB0tySCmUsfu27sD8%3D">
     </a>
@@ -65,12 +76,6 @@
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/13984829" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/4rMa1zeVwwLX8OBIQTsV98MLR%2FOKDOxLif5mhqblyJs%3D">
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14156681" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/ORoZ295Vb%2BLs6VvawOctoRUBLHnLS3sKloFU6AIRZhE%3D">
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14178473" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/TVR1AMh8sKiqC8HECnhUcS0H7Gzzc8i1FsUw7hnuxIo%3D">
     </a>
   </div>
   <div align="center">
