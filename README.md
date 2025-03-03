@@ -47,13 +47,31 @@
 
 <div>
   <h2>🚀 Badges</h2>
-  <div align="center">
-    <img width="140px" src="resources/aws-academy.png">
+  <div align="left">
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14176360" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/MyQRuPRm3HEqPq%2FxN8oa4NxXXDEB0tySCmUsfu27sD8%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14174678" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/NW6FJme0C%2Ffrx40X%2Fnubq0JbGu8E8j51ms%2BQLc4pcIk%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14165576" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/KbqzjKcHkLlPN6MjA3QKHmK%2B7Hz3YwOekanSDJZiSWY%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14117194" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/cxDtuz3YSLLSd05k344E3pKWmgHUCMT6vuurr5Na8cI%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/13985804" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/XtN9bsXRPu16Qi8rfkEKllJLdLJW1cCFACu6NgEjkGk%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/13984829" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/4rMa1zeVwwLX8OBIQTsV98MLR%2FOKDOxLif5mhqblyJs%3D">
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14156681" target="_blank">
+      <img height="160px" src="https://cdn.qwiklabs.com/ORoZ295Vb%2BLs6VvawOctoRUBLHnLS3sKloFU6AIRZhE%3D">
+    </a>
   </div>
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mateusjssilva&rank=SECRET,SSS,S,AAA,AA,A&row=1&column=5&margin-w=15&margin-h=15" alt="mateusjssilva"/>
-    </a>
+    <img height="160px" src="resources/aws-academy.png">
   </div>
 </div>
 
@@ -61,6 +79,11 @@
 <div>
   <h2>📊 GitHub Analytics</h2>  
   <div align="center">
+    <br>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=mateusjssilva&rank=SECRET,SSS,S,AAA,AA,A&row=1&column=5&margin-w=15&margin-h=15" alt="mateusjssilva"/>
+    </a>
+    <br>
     <br>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusjsSilva&layout=donut&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
