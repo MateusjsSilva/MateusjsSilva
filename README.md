@@ -69,6 +69,9 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14156681" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/ORoZ295Vb%2BLs6VvawOctoRUBLHnLS3sKloFU6AIRZhE%3D">
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14178473" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/TVR1AMh8sKiqC8HECnhUcS0H7Gzzc8i1FsUw7hnuxIo%3D">
+    </a>
   </div>
   <div align="center">
     <img height="150px" src="resources/aws-academy.png">
