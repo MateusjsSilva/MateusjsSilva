@@ -51,6 +51,9 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14179136" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/KR41r5TH13jpDKg2Bpv1%2FO7juhEQ9cYZ756fYxlQd9Y%3D">
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14180194" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/3hiWvIvbL7Se3k5QxX8I45i3fz1PPl%2BOGBTtzrhjtWo%3D">
+    </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14156681" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/ORoZ295Vb%2BLs6VvawOctoRUBLHnLS3sKloFU6AIRZhE%3D">
     </a>
