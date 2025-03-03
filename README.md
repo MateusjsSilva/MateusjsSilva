@@ -60,8 +60,6 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14178473" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/TVR1AMh8sKiqC8HECnhUcS0H7Gzzc8i1FsUw7hnuxIo%3D">
     </a>
-  </div>
-  <div align="center">
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14176360" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/MyQRuPRm3HEqPq%2FxN8oa4NxXXDEB0tySCmUsfu27sD8%3D">
     </a>
