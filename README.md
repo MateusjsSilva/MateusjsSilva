@@ -60,25 +60,17 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14178473" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/TVR1AMh8sKiqC8HECnhUcS0H7Gzzc8i1FsUw7hnuxIo%3D">
     </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14176360" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/MyQRuPRm3HEqPq%2FxN8oa4NxXXDEB0tySCmUsfu27sD8%3D">
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14241005" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/41Qz1ksWwngxbTpfJ%2FIZveqxfCwLwhS7yY7UKExYt80%3D">
     </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14174678" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/NW6FJme0C%2Ffrx40X%2Fnubq0JbGu8E8j51ms%2BQLc4pcIk%3D">
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14240968" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/Meu%2BR9A0204fPOsjzueiSH1IUl9JVhlGSEJjT7IAczQ%3D">
     </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14165576" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/KbqzjKcHkLlPN6MjA3QKHmK%2B7Hz3YwOekanSDJZiSWY%3D">
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14117194" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/cxDtuz3YSLLSd05k344E3pKWmgHUCMT6vuurr5Na8cI%3D">
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/13985804" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/XtN9bsXRPu16Qi8rfkEKllJLdLJW1cCFACu6NgEjkGk%3D">
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/13984829" target="_blank">
-      <img height="150px" src="https://cdn.qwiklabs.com/4rMa1zeVwwLX8OBIQTsV98MLR%2FOKDOxLif5mhqblyJs%3D">
+    <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14234744" target="_blank">
+      <img height="150px" src="https://cdn.qwiklabs.com/oyB%2Bcuv1ssQM0tzp3hBi5D2IePU1obATF%2Fz0R2Tu8uw%3D">
     </a>
   </div>
+  <h2>To see more badges I have earned visit my public <a  href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3">profile</a>.</h2>
   <div align="center">
     <img height="150px" src="resources/aws-academy.png">
   </div>
