@@ -47,6 +47,7 @@
 
 <div>
   <h2>🚀 Badges</h2>
+  <h3>To see more badges I have earned visit my <a  href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3">public profile</a>.</h3>
   <div align="center">
     <a href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3/badges/14179136" target="_blank">
       <img height="150px" src="https://cdn.qwiklabs.com/KR41r5TH13jpDKg2Bpv1%2FO7juhEQ9cYZ756fYxlQd9Y%3D">
@@ -71,7 +72,6 @@
     </a>
      <img height="150px" src="resources/aws-academy.png">
   </div>
-  <h2>To see more badges I have earned visit my public <a  href="https://www.cloudskillsboost.google/public_profiles/b13485ad-d45c-4c64-ba92-ad53c32c27d3">profile</a>.</h2>
 </div>
 
 <!-- GitHub Analytics -->
