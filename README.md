@@ -23,8 +23,9 @@
   </div>
   <h2>👨‍💻 Biography</h2>
   <ul style="list-style-type:none;">
-    <li>👨‍💻 Full-Stack Developer / Data Scientist</li>
-    <li>📚 Computer Science student</li>
+    <li>👨‍💻 Full-Stack Developer</li>
+    <li>📊 Data Scientist</li>
+    <li>📚 Computer Science Student</li>
     <li>👨‍🔧 Electronics Technician</li>
     <li>🔗 My personal website: <a href="https://www.mateussilva.dev.br" target="_blank" style="text-decoration: none; color: inherit;">www.mateussilva.dev.br</a></li>
   </ul>
