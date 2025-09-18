@@ -81,18 +81,17 @@
 </div>
 
 <!-- GitHub Analytics -->
-<div>
+<!--<div>
   <h2>📊 GitHub Analytics</h2>  
   <div align="center">
     <br>
-    <!--
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=mateusjssilva&rank=SECRET,SSS,S,AAA,AA,A&row=1&column=5&margin-w=15&margin-h=15" alt="mateusjssilva"/>
     </a>
     <br>
     <br>
-    -->
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusjsSilva&layout=donut&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
   </div>
 </div>
+-->
