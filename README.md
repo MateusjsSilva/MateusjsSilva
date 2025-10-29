@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center" width="100%">
-  <img src="resources/banner.png">
+  <img src="https://i.imgur.com/U7E2GzF.png">
 </div>
 
 <!-- Personal Information -->
@@ -31,7 +31,7 @@
   </ul>
 </div>
 
-<!-- Tech Stack -->
+<!-- Tech Stack
 <div>
   <br>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/></code>
@@ -48,6 +48,24 @@
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"/></code>
   <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" alt="SQL Server"/></code>
 </div>
+
+<div>
+  <br>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"/></code>
+  <code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" alt="SQL Server"/></code>
+</div>
+ -->
 
 <div>
   <h2>🚀 Badges</h2>
@@ -79,22 +97,3 @@
     -->
   </div>
 </div>
-
-<!-- GitHub Analytics -->
-<!--
-<div>
-  <h2>📊 GitHub Analytics</h2>  
-  <div align="center">
-    
-    <br>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=mateusjssilva&rank=SECRET,SSS,S,AAA,AA,A&row=1&column=5&margin-w=15&margin-h=15" alt="mateusjssilva"/>
-    </a>
-    <br>
-    <br>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MateusjsSilva&show_icons=true&theme=github_dark_dimmed&count_private=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusjsSilva&layout=donut&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
-    
-  </div>
-</div>
--->
