@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center" width="100%">
-  <img src="resources/Banner.png">
+  <img src="resources/banner.png">
 </div>
 
 <!-- Personal Information -->
