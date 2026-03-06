@@ -13,9 +13,7 @@ Personal website: [www.mateussilva.dev.br](https://www.mateussilva.dev.br)
 
 <!-- Personal Information -->
 <div>
-  <!-- Contact and Infos -->
-  <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=mateusjssilva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mateusjssilva" />
+  <div>
     <a href="mailto:trabalhomateusjs521@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
